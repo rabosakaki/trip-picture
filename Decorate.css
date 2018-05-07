@@ -1,0 +1,15 @@
+.header{
+    background-image:url("pic/kari.jpg");
+    height:120px;
+    padding-top: 30px;
+    
+}
+.title-call{
+    color: white;
+    text-align: center;
+    margin-top:0px;
+}
+body {
+    background-color: rgb(75, 197, 185);
+    margin:0;
+}
